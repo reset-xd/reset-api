@@ -1,2 +1,10 @@
 # reset-api
-Manager for resetapi https://api.resetxd.xyz
+
+api url: https://api.resetxd.xyz
+
+This repository is manage the api such as issues and to-do board
+
+
+## credits
+
+resetxd#8278
